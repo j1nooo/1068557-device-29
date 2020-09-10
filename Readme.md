@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Anton Emanakov](https://up.htmlacademy.ru/htmlcss/29/user/1068557).
-* Наставник: `Неизвестно`.
+* Наставник: [Victor Stepanov](https://htmlacademy.ru/profile/id289091).
 
 ---
 
